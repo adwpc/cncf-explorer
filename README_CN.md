@@ -1,4 +1,4 @@
-# cncf-explorer[english]("https://github.com/adwpc/cncf-explorer/blob/main/README.md")
+# cncf-explorer [[english]](https://github.com/adwpc/cncf-explorer/blob/main/README.md)
 分析CNCF项目语言占比
 
 # 用法
