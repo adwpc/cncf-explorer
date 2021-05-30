@@ -1,4 +1,4 @@
-# cncf-explorer
+# cncf-explorer[中文文档]("https://github.com/adwpc/cncf-explorer/blob/main/README_CN.md")
 explore cncf repo language percentage
 
 # Quick Start
